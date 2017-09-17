@@ -1,0 +1,13 @@
+{
+  "name": "elm-vs-angular",
+  "version": "1.0.0",
+  "description": "Angular project for demo purposes",
+  "repository": "https://github.com/acvdb/elm-vs-angular.git",
+  "scripts": {
+    "server": "lite-server -p 3000"
+  },
+  "devDependencies": {
+    "angular": "1.6.6",
+    "lite-server": "2.3.0"
+  }
+}
